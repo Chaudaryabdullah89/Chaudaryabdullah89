@@ -43,6 +43,6 @@ I'm a passionate frontend developer focused on creating **sleek**, **responsive*
 ---
 
 ## 📬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/-Twitter-lightblue)](https://twitter.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/-Twitter-lightblue)](https://twitter.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://chabdullah-dev.netlify.app)
 
 ---
