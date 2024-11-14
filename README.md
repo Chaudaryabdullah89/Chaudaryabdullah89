@@ -15,6 +15,7 @@ I'm a passionate frontend developer focused on creating **sleek**, **responsive*
 **Frameworks & Tools**  
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC) ![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-lightgrey) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C)  
 - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF) ![Figma](https://img.shields.io/badge/-Figma-red)
+- ![reactJs]()
 
 **Specialties**  
 - Responsive Design, UI/UX Prototyping, Creative CSS Animations  
