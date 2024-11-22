@@ -1,31 +1,35 @@
 # Hi, I'm Ch Abdullah 👋  
-### *Frontend Developer | Crafting Modern, Responsive Websites*
+### *Full Stack Developer | Crafting Scalable and Efficient Web Applications*
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate frontend developer focused on creating **sleek**, **responsive**, and **SEO-friendly** websites. My expertise lies in leveraging **modern CSS**, **JavaScript**, and **UX/UI design** to deliver engaging and performant web experiences. I'm constantly pushing the boundaries of web design to incorporate creative elements and smooth user interactions.
+I'm a passionate full stack developer focused on creating **sleek**, **responsive**, and **SEO-friendly** web applications. My expertise lies in leveraging **modern frontend and backend technologies** to build robust solutions.
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages**  
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Node.js](https://img.shields.io/badge/-Node.js-green)
 
-**Frameworks & Tools**  
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC) ![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-lightgrey) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C)  
-- ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF) ![Figma](https://img.shields.io/badge/-Figma-red)
-- ![reactJs]()
+**Frameworks & Libraries**  
+- ![React](https://img.shields.io/badge/-React-blue) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+
+**Databases**  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+
+**Tools & Platforms**  
+- ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF) ![Figma](https://img.shields.io/badge/-Figma-red)
 
 **Specialties**  
-- Responsive Design, UI/UX Prototyping, Creative CSS Animations  
-- Performance Optimization, SEO Best Practices, Accessibility
+- Full Stack Development, RESTful APIs, Responsive Design, UI/UX Prototyping  
+- Performance Optimization, SEO Best Practices, Accessibility, Database Management
 
 ---
 
 ## 🌟 Current Projects  
 - **Retro Smart**  
-  🚀 Building a **responsive**, **SEO-optimized** website for `retrosmart.co.uk`, blending modern design aesthetics with performance-focused development.
+  🚀 Building a **responsive**, **SEO-optimized** web application for `retrosmart.co.uk`, blending modern design aesthetics with performance-focused development.
 
 - **Interactive Forms**  
   🖋️ Crafting **dynamic forms** with real-time validation and error handling, ensuring smooth and user-friendly experiences.
@@ -36,9 +40,10 @@ I'm a passionate frontend developer focused on creating **sleek**, **responsive*
 ---
 
 ## 💼 What I Do  
-- 🌐 Develop fast, **responsive** websites with attention to detail and user experience  
+- 🌐 Develop fast, **responsive** web applications with attention to detail and user experience  
 - ⚡ Implement **advanced CSS** layouts and animations for a unique, modern look  
-- 🔍 Focus on **SEO** and **performance optimization** to improve visibility and load speed  
+- 🛠️ Build **robust backend** systems with Node.js and Express  
+- 🔍 Focus on **SEO**, **performance optimization**, and **database management** to improve visibility and efficiency  
 - 📱 Ensure **cross-browser compatibility** and **accessibility** for all users
 
 ---
