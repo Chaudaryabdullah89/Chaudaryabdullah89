@@ -1,15 +1,16 @@
-# Hi, I'm Muhammad Abdullah 👋
+#  I'm Muhammad Abdullah 👋
 
-I am a **Full Stack Developer** focused on building fast, scalable, and user-friendly web applications. I enjoy bridging the gap between clean design and robust backend logic to create seamless digital experiences.
+I am a **Full Stack Developer** driven by the challenge of building scalable, high-performance web applications. My approach combines a deep understanding of modern frontend frameworks with a solid foundation in backend architecture and database management.
 
-### 🛠️ What I Work With
-My expertise covers the entire development lifecycle, from database architecture to high-performance frontends. I primarily build with **Next.js** and manage data using both **SQL** and **NoSQL** (MongoDB) systems. Whether it's crafting complex APIs or optimizing a site for SEO and performance, I focus on writing efficient, maintainable code.
+### 🛠️ Technical Focus
+I works  in the **Next.js** ecosystem, creating SEO-optimized and responsive interfaces that don't compromise on speed. I am comfortable working across the entire stack, whether it's designing flexible data schemas in **MongoDB (NoSQL)** and **SQL**, or implementing complex logic with **Node.js**.
 
-### 💻 My Core Stack
-* **Frontend:** Next.js, React, Tailwind CSS, and Advanced CSS.
-* **Backend:** Node.js, Express, and RESTful APIs.
-* **Data:** MongoDB (NoSQL) & SQL Databases.
-* **Tools:** Git, Docker, Figma, and Photoshop.
+* **Frontend:** Next.js, React.js, Tailwind CSS, and Advanced CSS Animations.
+* **Backend:** Node.js, Express, and RESTful API Development.
+* **Databases:** Proficient in both SQL and NoSQL environments.
+* **Design & Workflow:** Git, Docker, Figma, and UI/UX Prototyping.
+
+I am constantly exploring new technologies and best practices to ensure the code I write is clean, efficient, and ready for production.
 
 ---
 [**Portfolio**](https://chabdullah-dev.netlify.app) | [**GitHub**](https://github.com/Chaudaryabdullah89) | [**LinkedIn**](https://linkedin.com)
