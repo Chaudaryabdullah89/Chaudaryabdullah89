@@ -141,7 +141,7 @@ A modern visual web experience focused on smooth scrolling, motion, responsive d
 
 I'm always interested in building useful products, collaborating on web projects, and learning from other developers.
 
-**Portfolio:** [chabdullah-dev.netlify.app](https://chabdullah-dev.netlify.app)  
+**Portfolio:** [chabdullah-dev.netlify.app](https://abdullahportfilo.vercel.app)  
 **GitHub:** [github.com/Chaudaryabdullah89](https://github.com/Chaudaryabdullah89)  
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ch-abdullah-aa8709329/)
 
